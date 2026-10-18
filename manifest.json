@@ -1,0 +1,24 @@
+{
+  "name": "Manaure Infinito · Centenario",
+  "short_name": "Manaure",
+  "description": "Mural generativo procedimental en SVG en homenaje al centenario de Mateo Manaure (1926-2026).",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0E1013",
+  "theme_color": "#DE2828",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%230E1013'/><rect x='16' y='16' width='160' height='48' fill='%23FDD023'/><rect x='16' y='72' width='160' height='48' fill='%230F52BA'/><rect x='16' y='128' width='160' height='48' fill='%23DE2828'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230E1013'/><rect x='32' y='32' width='448' height='136' fill='%23FDD023'/><rect x='32' y='188' width='448' height='136' fill='%230F52BA'/><rect x='32' y='344' width='448' height='136' fill='%23DE2828'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
